@@ -1,11 +1,12 @@
+body {
+  background-image: url(/Curriculo/Imagens/CBT8E0c.jpg);
+  background-size: cover;
+  background-position: center center;
+}
 #Eu {
     width: 300px;
     margin-left: 37%; 
 }
-body {
-    background-color: black;
-}
-
 #Cabeça {
     background-color: red;
     height: 100px;

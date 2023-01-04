@@ -1,7 +1,8 @@
 body {
-    background-color: black;
+  background-image: url(/Curriculo/Imagens/CBT8E0c.jpg);
+  background-size: cover;
+  background-position: center center;
 }
-
 #Cabeça {
     background-color: red;
     height: 100px;
