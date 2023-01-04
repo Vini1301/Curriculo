@@ -13,6 +13,7 @@ body {
     border-color: grey red;
     border-radius: 50%;
     display: inline-block;
+    padding: auto;
 }
 #Cabeça2{
     background-color: rgb(167, 30, 30);
@@ -25,7 +26,7 @@ body {
 }
    a{
     color:black;
-    padding: 10px;
+    padding-left: 0px;
     text-decoration: none;
     border-radius: 10px;
     margin-left: 110px;
