@@ -1,94 +1,94 @@
 body {
-    background-image: url(/Curriculo/Imagens/CBT8E0c.jpg);
-    background-size: cover;
-    background-position: center center;
+  background-image: url(/Curriculo/Imagens/CBT8E0c.jpg);
+  background-size: cover;
+  background-position: center center;
 }
 
 #Cabeça {
-    background-color: red;
-    height: 100px;
-    width: 100px;
-    border-width: 10px;
-    border-style: solid;
-    border-color: grey red;
-    border-radius: 50%;
-    display: inline-block;
-    padding: auto;
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: grey red;
+  border-radius: 50%;
+  display: inline-block;
+  padding: auto;
 }
 #Cabeça2{
-    background-color: rgb(167, 30, 30);
-    border-radius: 10px;
-    width: 1000px;
-    display: inline-block;
-    padding-bottom: 50px;
-    position: sticky;
-    
+  background-color: rgb(167, 30, 30);
+  border-radius: 10px;
+  width: 1000px;
+  display: inline-block;
+  padding-bottom: 50px;
+  position: sticky;
+  
 }
-   a{
-    color:black;
-    padding-left: 0px;
-    text-decoration: none;
-    border-radius: 10px;
-    margin-left: 110px;
-    
-  }
-  a:visited{
-    background-color: red;
-    color:black;
-    padding: 15px;
-    text-decoration: none;
-    border-radius: 10px;
-  }
-  #Inicio{
-    display: inline-block;
-    padding-top: 50px;
-    font-size: larger;
-  }
-  #Botão1{
-    display: inline-block;
-  }
-  #Botão2{
-    display: inline-block;
-    
-  }
-  #Botão3{
-    display: inline-block;
-  }
-  #Botão4{
-    display: inline-block;
-  }
- 
- h1{ 
-  color: white;
-  text-align: center;
- }
- p{
-  color: white;
-  text-transform: uppercase;
-  text-align: center;
- }
- #Desenvolvendo{
-  margin-left: 29%;
-  width: 500px;
- }
- #Insta {
-  background: linear-gradient(rgb(255, 0, 170), rgb(128, 109, 0), rgb(255, 102, 0)) ;
-  width: 400px;
-  margin-left: 35%;
- }
- #Eu {
-  width: 300px;
-  margin-left: 37%;
- }
- #Escrevendo{
-  width: 300px;
-  margin-left: 37%;
- }
- #AresMidia{
-  width: 300px;
-  margin-left: 38%;
- }
- #Mente{
-  width: 300px;
-  margin-left: 38%;
- }
+ a{
+  color:black;
+  padding-left: 0px;
+  text-decoration: none;
+  border-radius: 10px;
+  margin-left: 110px;
+  
+}
+a:visited{
+  background-color: red;
+  color:black;
+  padding: 15px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+#Inicio{
+  display: inline-block;
+  padding-top: 50px;
+  font-size: larger;
+}
+#Botão1{
+  display: inline-block;
+}
+#Botão2{
+  display: inline-block;
+  
+}
+#Botão3{
+  display: inline-block;
+}
+#Botão4{
+  display: inline-block;
+}
+
+h1{ 
+color: white;
+text-align: center;
+}
+p{
+color: white;
+text-transform: uppercase;
+text-align: center;
+}
+#Desenvolvendo{
+margin-left: 29%;
+width: 500px;
+}
+#Insta {
+background: linear-gradient(rgb(255, 0, 170), rgb(128, 109, 0), rgb(255, 102, 0)) ;
+width: 400px;
+margin-left: 35%;
+}
+#Eu {
+width: 300px;
+margin-left: 37%;
+}
+#Escrevendo{
+width: 300px;
+margin-left: 37%;
+}
+#AresMidia{
+width: 300px;
+margin-left: 38%;
+}
+#Mente{
+width: 300px;
+margin-left: 38%;
+}

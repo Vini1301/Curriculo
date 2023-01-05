@@ -3,7 +3,6 @@ body {
   background-size: cover;
   background-position: center center;
 }
-
 #Cabeça {
     background-color: red;
     height: 100px;
@@ -29,7 +28,7 @@ a{
   text-decoration: none;
   border-radius: 10px;
   margin-left: 110px;
-  }
+}
   a:visited{
     background-color: red;
     color:black;
@@ -65,7 +64,7 @@ a{
   text-transform: uppercase;
   text-align: center;
  }
-#Mente{
- width: 300px;
- margin-left: 38%;
-}
+ #Mente{
+  width: 300px;
+  margin-left: 37%;
+ }
